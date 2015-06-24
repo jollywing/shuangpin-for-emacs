@@ -1,5 +1,7 @@
-# shuangpin-for-emacs
-A Microsoft ShuangPin input method for Emacs
+# Emacs微软双拼输入法 (shuangpin-for-emacs)
+
+A Microsoft ShuangPin input method for Emacs.
+用Emacs leim实现的微软双拼输入法.
 
 ## Intro
 
